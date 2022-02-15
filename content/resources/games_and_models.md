@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Handout containing introductory notes on games and models.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/24-222-decisions-games-and-rational-choice-spring-2008/bdf7db3c64ddf938208e4e44bdbd6e59_games_and_models.pdf
+file: /media/courses/24-222-decisions-games-and-rational-choice-spring-2008/bdf7db3c64ddf938208e4e44bdbd6e59_games_and_models.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: games_and_models.pdf
 uid: bdf7db3c-64dd-f938-208e-4e44bdbd6e59

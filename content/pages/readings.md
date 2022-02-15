@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 7738ddc0-28e2-1ea2-ab7e-d9693ab42356
 ---
@@ -61,7 +64,7 @@ Introduction: What is rationality?
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 2-10
 {{< tdclose >}}
 {{< tdopen >}}
@@ -120,7 +123,7 @@ For those who want to explore causal decision theory in more depth, see Joyce, e
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 11-19
 {{< tdclose >}}
 {{< tdopen >}}
@@ -171,7 +174,7 @@ Schelling, chapters 4-5
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 20-26
 {{< tdclose >}}
 {{< tdopen >}}
