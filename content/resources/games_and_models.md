@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 7738ddc0-28e2-1ea2-ab7e-d9693ab42356
 resourcetype: Document
 title: games_and_models.pdf
 uid: bdf7db3c-64dd-f938-208e-4e44bdbd6e59
