@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information on the course texts and the schedule
+  of readings for the lecture sessions of the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -134,7 +136,7 @@ The basic framework
 
 Resnik, chapter 5
 
-Notes on games and models ([PDF]({{< baseurl >}}/resources/games_and_models))
+Notes on games and models ({{% resource_link bdf7db3c-64dd-f938-208e-4e44bdbd6e59 "PDF" %}})
 
 
 {{< tdclose >}}
