@@ -5,6 +5,7 @@ file: /courses/24-222-decisions-games-and-rational-choice-spring-2008/bdf7db3c64
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: games_and_models.pdf
 uid: bdf7db3c-64dd-f938-208e-4e44bdbd6e59
 ---
 Handout containing introductory notes on games and models.
-

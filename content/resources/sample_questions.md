@@ -5,6 +5,7 @@ file: /courses/24-222-decisions-games-and-rational-choice-spring-2008/1e2c59ead3
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sample_questions.pdf
 uid: 1e2c59ea-d3d4-46d3-5f6a-b16b0ed119c8
 ---
 Sample questions provided as a study aid for the final exam.
-
