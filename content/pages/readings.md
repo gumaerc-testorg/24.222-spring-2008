@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains information on the course texts and the schedule
+  of readings for the lecture sessions of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 7738ddc0-28e2-1ea2-ab7e-d9693ab42356
 ---
@@ -61,7 +66,7 @@ Introduction: What is rationality?
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 2-10
 {{< tdclose >}}
 {{< tdopen >}}
@@ -120,7 +125,7 @@ For those who want to explore causal decision theory in more depth, see Joyce, e
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 11-19
 {{< tdclose >}}
 {{< tdopen >}}
@@ -131,7 +136,7 @@ The basic framework
 
 Resnik, chapter 5
 
-Notes on games and models ([PDF]({{< baseurl >}}/resources/games_and_models))
+Notes on games and models ({{% resource_link bdf7db3c-64dd-f938-208e-4e44bdbd6e59 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -171,7 +176,7 @@ Schelling, chapters 4-5
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 20-26
 {{< tdclose >}}
 {{< tdopen >}}
