@@ -41,7 +41,7 @@ Joyce, James M. _The Foundations of Causal Decision Theory_. Cambridge, UK: Camb
 
 Leyton-Brown, Kevin, and Yoav Shoham. _Essentials of Game Theory: A Concise, Multidisciplinary Introduction_. San Rafael, CA: Morgan and Claypool Publishers, 2008. ISBN: 9781598295931.
 
-{{% resource_link "8aa82f2d-8e52-48d9-bcde-a729cf46a025" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Sen, Amartya K. {{% resource_link "8aa82f2d-8e52-48d9-bcde-a729cf46a025" "_Choice, Welfare, and Measurement_" %}}. Cambridge, MA: MIT Press, 1982. ISBN: 9780262192149.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262192149) Sen, Amartya K. [_Choice, Welfare, and Measurement_](https://mitpress.mit.edu/9780262192149). Cambridge, MA: MIT Press, 1982. ISBN: 9780262192149.
 
 Grading
 -------
