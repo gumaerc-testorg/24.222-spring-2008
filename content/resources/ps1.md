@@ -5,6 +5,7 @@ description: Problem set on making intuitive judgments about probabilities in ce
   about others, reflection on what one is doing when one makes such intuitive judgments,
   and the status of the theoretical assumptions presupposed in the computations.
 file: /courses/24-222-decisions-games-and-rational-choice-spring-2008/dfda3f2a078dd88fbeb348e8cd7ccdc2_ps1.pdf
+file_size: 23781
 file_type: application/pdf
 learning_resource_types:
 - Assignments
