@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Final exam on decisions, games, and rational choice.
-file: /ol-ocw-studio-app/courses/24-222-decisions-games-and-rational-choice-spring-2008/efba1ecf2b476c68be2273b927424c88_final_exam.pdf
+file: /courses/24-222-decisions-games-and-rational-choice-spring-2008/efba1ecf2b476c68be2273b927424c88_final_exam.pdf
 file_size: 82486
 file_type: application/pdf
 learning_resource_types:

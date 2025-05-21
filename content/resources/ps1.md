@@ -4,7 +4,7 @@ description: Problem set on making intuitive judgments about probabilities in ce
   kinds of situations, the computation of some probabilities as a function of judgments
   about others, reflection on what one is doing when one makes such intuitive judgments,
   and the status of the theoretical assumptions presupposed in the computations.
-file: /ol-ocw-studio-app/courses/24-222-decisions-games-and-rational-choice-spring-2008/dfda3f2a078dd88fbeb348e8cd7ccdc2_ps1.pdf
+file: /courses/24-222-decisions-games-and-rational-choice-spring-2008/dfda3f2a078dd88fbeb348e8cd7ccdc2_ps1.pdf
 file_size: 23781
 file_type: application/pdf
 learning_resource_types:
