@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample questions provided as a study aid for the final exam.
-file: /courses/24-222-decisions-games-and-rational-choice-spring-2008/1e2c59ead3d446d35f6ab16b0ed119c8_sample_questions.pdf
+file: /ol-ocw-studio-app/courses/24-222-decisions-games-and-rational-choice-spring-2008/1e2c59ead3d446d35f6ab16b0ed119c8_sample_questions.pdf
 file_size: 56341
 file_type: application/pdf
 learning_resource_types:
